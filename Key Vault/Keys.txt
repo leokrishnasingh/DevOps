@@ -1,0 +1,29 @@
+-----------------------------Sonar Cloud-------------------------------------
+
+Key : krishna-devops-learning_sonarcloudleaning
+
+
+
+
+-------------------Go Daddy----------------------------------
+
+Domain : ksprivate.xyz
+
+
+
+
+
+-----------------------------AWS------------------------------------------
+
+Root User
+
+Account name
+krishnaforcloud
+Email address
+krishnaforcloud@outlook.com
+AWS account ID
+
+010288378880
+Canonical user ID
+
+90d91b8372067bbbabc7bd38a33f28bab7b2ed8f1388346bebd2326d40b3b132

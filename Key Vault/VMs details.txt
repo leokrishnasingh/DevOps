@@ -1,0 +1,18 @@
+Ubuntu
+root : Password
+
+
+CentOS
+
+admin/Password
+
+
+get IP address : ip addr show
+
+
+For ssh connection 
+ssh centosuser@IPaddress
+
+centosuser is admin 
+
+
